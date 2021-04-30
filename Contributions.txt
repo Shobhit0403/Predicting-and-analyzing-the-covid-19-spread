@@ -1,0 +1,22 @@
+﻿Group 4:
+
+
+* Shashank Kumar: 
+   * Scraped and searched for data
+   * Preprocessing and visualization
+   * Built linear regression model
+   * Contributed with writing the report 
+
+
+* Aditya bhandari: 
+   * Scraped and searched for data
+   * Built random forest regressor mode
+   * Contributed with writing the report 
+* Shobhit Mehta: 
+   * Built random forest regressor model
+   * Contributed with writing the report.
+   * Vaccine influence analysis
+* Nilesh Raghuvanshi :
+   * Helped in preprocessing and visualization
+   * Contributed with writing the report
+   * Built linear regression model
